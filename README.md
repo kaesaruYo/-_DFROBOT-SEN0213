@@ -31,7 +31,7 @@ C.手順<br>
 ★バイオメディカルセンサーパッドは摩耗品です．何回か使うと精度が落ちてきていたので，
 その都度交換することを強く推奨
 
-3.Arduino IDEにHeartSensor.inoにコードを書きこむ
+3.Arduino IDEにHeartSensor.inoのコードを書きこむ
 
 4. ArduinoIDEで書き込みし，「ツール」＞「シリアルプロッタ」から，心拍数をリアルタイムで観測できる．
 baudは 3. のSerial.begin()の引数にセットする．
