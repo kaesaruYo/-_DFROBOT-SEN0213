@@ -1,5 +1,5 @@
 DFROBOT-SEN0213
-心拍センサー(DFROBOT SEN0213)の簡単な計測プログラムなど（メモ用なので全く実用できないです）
+心拍センサー(DFROBOT SEN0213)の簡単な計測プログラムなど（メモ用なので全く実用できないです．あとたまに動作怪しいし）
 
 A.概要
 "心拍数の測定．
@@ -13,7 +13,7 @@ o バイオメディカルセンサーパッド　　→右図
 o ジャンパワイヤ  ★自前
 ○Arduino IDE V1.6.6以上
 
-C.手順
+C.手順<br>
 "1.↓図のような感じでつなぐ
 ※ただし，M5core2への接続端子はDFRduinoと違うので下記に該当するようにジャンパワイヤを取り付ける<br>
 <img width="976" height="478" alt="image" src="https://github.com/user-attachments/assets/bbb942a9-ed7a-43f2-8026-e9e133fe0bcd" /><br>
